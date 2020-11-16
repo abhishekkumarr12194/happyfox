@@ -1,0 +1,110 @@
+2020-11-16 11:14:34,467 : INFO : test_scenario_one : Username is Entered
+2020-11-16 11:14:34,714 : INFO : test_scenario_one : Password is Entered
+2020-11-16 11:14:44,039 : INFO : test_scenario_one : Login button is clicked
+2020-11-16 11:14:48,480 : INFO : test_scenario_one : Login is successful and control in on Pending Tickets window
+2020-11-16 11:14:53,957 : INFO : test_scenario_one : Control is now on Status management window
+2020-11-16 11:14:56,703 : INFO : test_scenario_one : New Status is Created
+2020-11-16 11:14:58,488 : INFO : test_scenario_one : Control is now on Priority management window
+2020-11-16 11:15:01,428 : INFO : test_scenario_one : New Status is Created
+2020-11-16 11:15:01,574 : INFO : test_scenario_three : Status Object Created 
+2020-11-16 11:15:03,254 : INFO : test_scenario_three : clicked on statuses link to switch to status window
+2020-11-16 11:15:09,173 : INFO : test_scenario_three : deleted the status
+2020-11-16 11:15:11,344 : INFO : test_scenario_three : clicked on priorities link to switch to priority window
+2020-11-16 11:15:17,131 : INFO : test_scenario_three : deleted the priority
+2020-11-16 11:15:26,840 : INFO : test_scenario_three : Logout Completed
+2020-11-16 11:15:52,054 : INFO : test_scenario_one : Username is Entered
+2020-11-16 11:15:52,290 : INFO : test_scenario_one : Password is Entered
+2020-11-16 11:16:01,648 : INFO : test_scenario_one : Login button is clicked
+2020-11-16 11:16:03,654 : INFO : test_scenario_one : Login is successful and control in on Pending Tickets window
+2020-11-16 11:16:10,372 : INFO : test_scenario_one : Control is now on Status management window
+2020-11-16 11:16:13,429 : INFO : test_scenario_one : New Status is Created
+2020-11-16 11:16:15,311 : INFO : test_scenario_one : Control is now on Priority management window
+2020-11-16 11:16:18,356 : INFO : test_scenario_one : New Status is Created
+2020-11-16 11:16:23,108 : INFO : test_scenario_two : created status is made default status
+2020-11-16 11:16:26,863 : INFO : test_scenario_two : created priority is made default priority
+2020-11-16 11:16:33,332 : INFO : test_scenario_two : Control is Transffered to New Ticket Creation window
+2020-11-16 11:16:37,782 : INFO : test_scenario_two : Successfuly created New Ticket
+2020-11-16 11:16:54,170 : INFO : test_scenario_two : Transfered the Control to Pending Tickets Page detail
+2020-11-16 11:16:57,307 : INFO : test_scenario_two : Default status is selected successfuly in New Ticket
+2020-11-16 11:16:57,385 : INFO : test_scenario_two : Default priority is selected successfuly in New Ticket
+2020-11-16 11:16:57,947 : INFO : test_scenario_two : Transfered control to Ticket Detail Page
+2020-11-16 11:17:09,396 : INFO : test_scenario_two : Replied to Ticket with canned action success
+2020-11-16 11:17:11,979 : INFO : test_scenario_two : Ticket status updated as CLOSED after canned action reply
+2020-11-16 11:17:12,060 : INFO : test_scenario_two : Ticket tag updated with customer_query tag after canned action reply
+2020-11-16 11:17:12,143 : INFO : test_scenario_two : Ticket priority updated as medium after canned action reply
+2020-11-16 11:17:16,332 : INFO : test_scenario_two : Transferring control to Pending Tickets window
+2020-11-16 11:17:20,075 : INFO : test_scenario_two : clicking and Transferring control to the Status window
+2020-11-16 11:17:25,108 : INFO : test_scenario_three : Status Object Created 
+2020-11-16 11:17:26,385 : INFO : test_scenario_three : clicked on statuses link to switch to status window
+2020-11-16 11:17:34,071 : INFO : test_scenario_three : deleted the status
+2020-11-16 11:17:35,982 : INFO : test_scenario_three : clicked on priorities link to switch to priority window
+2020-11-16 11:17:43,295 : INFO : test_scenario_three : deleted the priority
+2020-11-16 11:17:53,232 : INFO : test_scenario_three : Logout Completed
+2020-11-16 11:20:12,065 : INFO : test_scenario_one : Username is Entered
+2020-11-16 11:20:12,252 : INFO : test_scenario_one : Password is Entered
+2020-11-16 11:20:21,716 : INFO : test_scenario_one : Login button is clicked
+2020-11-16 11:20:23,476 : INFO : test_scenario_one : Login is successful and control in on Pending Tickets window
+2020-11-16 11:20:29,543 : INFO : test_scenario_one : Control is now on Status management window
+2020-11-16 11:20:34,927 : INFO : test_scenario_one : New Status is Created
+2020-11-16 11:20:36,706 : INFO : test_scenario_one : Control is now on Priority management window
+2020-11-16 11:20:39,735 : INFO : test_scenario_one : New Status is Created
+2020-11-16 11:20:39,755 : INFO : test_scenario_three : Status Object Created 
+2020-11-16 11:20:41,600 : INFO : test_scenario_three : clicked on statuses link to switch to status window
+2020-11-16 11:20:47,980 : INFO : test_scenario_three : deleted the status
+2020-11-16 11:20:49,973 : INFO : test_scenario_three : clicked on priorities link to switch to priority window
+2020-11-16 11:20:56,381 : INFO : test_scenario_three : deleted the priority
+2020-11-16 11:21:01,223 : INFO : test_scenario_three : Logout Completed
+2020-11-16 11:21:23,828 : INFO : test_scenario_one : Username is Entered
+2020-11-16 11:21:24,126 : INFO : test_scenario_one : Password is Entered
+2020-11-16 11:21:33,466 : INFO : test_scenario_one : Login button is clicked
+2020-11-16 11:21:35,513 : INFO : test_scenario_one : Login is successful and control in on Pending Tickets window
+2020-11-16 11:21:41,257 : INFO : test_scenario_one : Control is now on Status management window
+2020-11-16 11:21:50,947 : INFO : test_scenario_one : New Status is Created
+2020-11-16 11:21:53,017 : INFO : test_scenario_one : Control is now on Priority management window
+2020-11-16 11:21:55,200 : INFO : test_scenario_one : New Status is Created
+2020-11-16 11:21:58,359 : INFO : test_scenario_three : Status Object Created 
+2020-11-16 11:21:59,494 : INFO : test_scenario_three : clicked on statuses link to switch to status window
+2020-11-16 11:22:05,421 : INFO : test_scenario_three : deleted the status
+2020-11-16 11:22:07,073 : INFO : test_scenario_three : clicked on priorities link to switch to priority window
+2020-11-16 11:26:00,955 : INFO : test_scenario_one : Username is Entered
+2020-11-16 11:26:01,140 : INFO : test_scenario_one : Password is Entered
+2020-11-16 11:26:10,403 : INFO : test_scenario_one : Login button is clicked
+2020-11-16 11:26:12,964 : INFO : test_scenario_one : Login is successful and control in on Pending Tickets window
+2020-11-16 11:26:18,979 : INFO : test_scenario_one : Control is now on Status management window
+2020-11-16 11:26:24,389 : INFO : test_scenario_one : New Status is Created
+2020-11-16 11:26:26,129 : INFO : test_scenario_one : Control is now on Priority management window
+2020-11-16 11:26:28,923 : INFO : test_scenario_one : New Status is Created
+2020-11-16 11:26:31,689 : INFO : test_scenario_three : Status Object Created 
+2020-11-16 11:26:32,799 : INFO : test_scenario_three : clicked on statuses link to switch to status window
+2020-11-16 11:26:38,566 : INFO : test_scenario_three : deleted the status
+2020-11-16 11:26:40,191 : INFO : test_scenario_three : clicked on priorities link to switch to priority window
+2020-11-16 11:26:46,582 : INFO : test_scenario_three : deleted the priority
+2020-11-16 11:26:51,782 : INFO : test_scenario_three : Logout Completed
+2020-11-16 11:29:05,809 : INFO : test_scenario_one : Username is Entered
+2020-11-16 11:29:06,012 : INFO : test_scenario_one : Password is Entered
+2020-11-16 11:29:15,329 : INFO : test_scenario_one : Login button is clicked
+2020-11-16 11:29:17,608 : INFO : test_scenario_one : Login is successful and control in on Pending Tickets window
+2020-11-16 11:29:22,657 : INFO : test_scenario_one : Control is now on Status management window
+2020-11-16 11:29:27,760 : INFO : test_scenario_one : New Status is Created
+2020-11-16 11:29:30,594 : INFO : test_scenario_one : Control is now on Priority management window
+2020-11-16 11:29:33,728 : INFO : test_scenario_one : New Status is Created
+2020-11-16 11:29:38,596 : INFO : test_scenario_two : created status is made default status
+2020-11-16 11:29:44,060 : INFO : test_scenario_two : created priority is made default priority
+2020-11-16 11:29:51,382 : INFO : test_scenario_two : Control is Transffered to New Ticket Creation window
+2020-11-16 11:29:55,163 : INFO : test_scenario_two : Successfuly created New Ticket
+2020-11-16 11:30:10,279 : INFO : test_scenario_two : Transfered the Control to Pending Tickets Page detail
+2020-11-16 11:30:13,417 : INFO : test_scenario_two : Default status is selected successfuly in New Ticket
+2020-11-16 11:30:13,479 : INFO : test_scenario_two : Default priority is selected successfuly in New Ticket
+2020-11-16 11:30:14,039 : INFO : test_scenario_two : Transfered control to Ticket Detail Page
+2020-11-16 11:30:29,064 : INFO : test_scenario_two : Replied to Ticket with canned action success
+2020-11-16 11:30:30,834 : INFO : test_scenario_two : Ticket status updated as CLOSED after canned action reply
+2020-11-16 11:30:30,962 : INFO : test_scenario_two : Ticket tag updated with customer_query tag after canned action reply
+2020-11-16 11:30:31,071 : INFO : test_scenario_two : Ticket priority updated as medium after canned action reply
+2020-11-16 11:30:33,416 : INFO : test_scenario_two : Transferring control to Pending Tickets window
+2020-11-16 11:30:36,328 : INFO : test_scenario_two : clicking and Transferring control to the Status window
+2020-11-16 11:30:36,353 : INFO : test_scenario_three : Status Object Created 
+2020-11-16 11:30:42,646 : INFO : test_scenario_three : clicked on statuses link to switch to status window
+2020-11-16 11:30:49,513 : INFO : test_scenario_three : deleted the status
+2020-11-16 11:30:52,488 : INFO : test_scenario_three : clicked on priorities link to switch to priority window
+2020-11-16 11:30:59,659 : INFO : test_scenario_three : deleted the priority
+2020-11-16 11:31:04,534 : INFO : test_scenario_three : Logout Completed

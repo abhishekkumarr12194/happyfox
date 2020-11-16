@@ -1,0 +1,31 @@
+2020-04-10 19:28:51,158 : INFO : test_homepage : Name is: Rahul
+2020-04-10 19:28:51,488 : INFO : test_homepage : email is:rahul@gmail.com
+2020-04-10 19:28:51,714 : INFO : test_homepage : Password:login@32
+2020-04-10 19:28:52,013 : INFO : test_homepage : gender:Male
+2020-04-10 19:28:52,358 : INFO : test_homepage : birthday entered
+2020-04-10 19:28:52,686 : INFO : test_homepage : clicked Button
+2020-04-10 19:28:53,657 : INFO : test_homepage : Name is: Abhishek
+2020-04-10 19:28:53,657 : INFO : test_homepage : Name is: Abhishek
+2020-04-10 19:28:53,885 : INFO : test_homepage : email is:abhi@gmail.com
+2020-04-10 19:28:53,885 : INFO : test_homepage : email is:abhi@gmail.com
+2020-04-10 19:28:54,074 : INFO : test_homepage : Password:login@123
+2020-04-10 19:28:54,074 : INFO : test_homepage : Password:login@123
+2020-04-10 19:28:54,446 : INFO : test_homepage : gender:Female
+2020-04-10 19:28:54,446 : INFO : test_homepage : gender:Female
+2020-04-10 19:28:54,787 : INFO : test_homepage : birthday entered
+2020-04-10 19:28:54,787 : INFO : test_homepage : birthday entered
+2020-04-10 19:28:54,996 : INFO : test_homepage : clicked Button
+2020-04-10 19:28:54,996 : INFO : test_homepage : clicked Button
+2020-04-10 19:29:08,528 : INFO : test_e2e : clicked on Shop button
+2020-04-10 19:29:08,628 : INFO : test_e2e : brand value available:iphone X
+2020-04-10 19:29:08,674 : INFO : test_e2e : brand value available:Samsung Note 8
+2020-04-10 19:29:08,736 : INFO : test_e2e : brand value available:Nokia Edge
+2020-04-10 19:29:08,792 : INFO : test_e2e : brand value available:Blackberry
+2020-04-10 19:29:09,149 : INFO : test_e2e : clicked on Checkout
+2020-04-10 19:29:09,251 : INFO : test_e2e : checking Availibility of stoc:In Stock
+2020-04-10 19:29:09,407 : INFO : test_e2e : price of one element 50000
+2020-04-10 19:29:09,617 : INFO : test_e2e : entering element america:
+2020-04-10 19:29:14,892 : INFO : test_e2e : suggestion being shown
+2020-04-10 19:29:15,561 : INFO : test_e2e : Purchase Done
+2020-04-10 19:29:15,696 : INFO : test_e2e : Message being displayed:×
+Success! Thank you! Your order will be delivered in next few weeks :-).

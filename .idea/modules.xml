@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../APIautomation/.idea/APIautomation.iml" filepath="$PROJECT_DIR$/../APIautomation/.idea/APIautomation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Practice/.idea/Practice.iml" filepath="$PROJECT_DIR$/../Practice/.idea/Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Selenium Python/.idea/Selenium Python.iml" filepath="$PROJECT_DIR$/../Selenium Python/.idea/Selenium Python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SeleniumPytestFramework.iml" filepath="$PROJECT_DIR$/.idea/SeleniumPytestFramework.iml" />
+    </modules>
+  </component>
+</project>

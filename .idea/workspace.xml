@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="70d79e23-5c74-4516-9e19-319af40fb25a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZeWCXdrAk39Wtq1IlFoUydQetB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../untitled" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.Check_Biggest">
+    <configuration name="API_AddGetDeleteBook" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="APIautomation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../APIautomation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../APIautomation/API_AddGetDeleteBook.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="API_GetBook (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="APIautomation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../APIautomation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../APIautomation/API_GetBook.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Check_Biggest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Practice/ArrayPractice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Practice/ArrayPractice/Check_Biggest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Practice for Exercise" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Practice/ArrayPractice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Practice/ArrayPractice/Practice for Exercise.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="anagram" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Python38\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Practice/ArrayPractice" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Practice/ArrayPractice/anagram.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Check_Biggest" />
+        <item itemvalue="Python.anagram" />
+        <item itemvalue="Python.Practice for Exercise" />
+        <item itemvalue="Python.API_GetBook (1)" />
+        <item itemvalue="Python.API_AddGetDeleteBook" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="70d79e23-5c74-4516-9e19-319af40fb25a" name="Default Changelist" comment="" />
+      <created>1601604602891</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601604602891</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="0" key="#anagram" timestamp="1602328633152">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="414" y="0" key="#anagram/0.0.1366.728@0.0.1366.728" timestamp="1602328633152" />
+    <state x="433" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601716115718">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="433" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1601716115718" />
+    <state x="412" y="147" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1602339069494">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="412" y="147" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1602339069494" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1601606454737">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1601606454737" />
+    <state width="1328" height="202" key="GridCell.Tab.0.bottom" timestamp="1602344734869">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1328" height="202" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602344734869" />
+    <state width="1328" height="202" key="GridCell.Tab.0.center" timestamp="1602344734869">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1328" height="202" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1602344734869" />
+    <state width="1328" height="202" key="GridCell.Tab.0.left" timestamp="1602344734869">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1328" height="202" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1602344734869" />
+    <state width="1328" height="202" key="GridCell.Tab.0.right" timestamp="1602344734869">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1328" height="202" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602344734869" />
+    <state width="1328" height="202" key="GridCell.Tab.1.bottom" timestamp="1602344734870">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1328" height="202" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602344734870" />
+    <state width="1328" height="202" key="GridCell.Tab.1.center" timestamp="1602344734870">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1328" height="202" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1602344734870" />
+    <state width="1328" height="202" key="GridCell.Tab.1.left" timestamp="1602344734869">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1328" height="202" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1602344734869" />
+    <state width="1328" height="202" key="GridCell.Tab.1.right" timestamp="1602344734870">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1328" height="202" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1602344734870" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1602341866876">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1602341866876" />
+    <state x="378" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1602325562811">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="378" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1602325562811" />
+    <state x="254" y="99" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1602339071792">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="254" y="99" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.728@0.0.1366.728" timestamp="1602339071792" />
+  </component>
+</project>
